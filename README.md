@@ -12,3 +12,5 @@
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/tdro13o5i8rtdnvl?svg=true)](https://ci.appveyor.com/project/Dmitriy-Nabokov/java-aqa-code-master)
+
